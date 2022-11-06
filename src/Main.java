@@ -2,7 +2,7 @@ import java.nio.charset.Charset;
 public class Main {
 
     static int truck = 0;
-    static int boxes = 29;
+    static int boxes = 99;
     static int containers = 0;
     static int boxesInContainers = 27;
     static int containersInTruck = 12;

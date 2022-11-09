@@ -23,7 +23,5 @@ public class Main {
                     System.out.println("Контейнер " + containers);
             }
         }
-        System.out.println("Нужно грузовиков " + truck + "\r\n" +
-                "Нужно контейнеров " + containers);
     }
 }

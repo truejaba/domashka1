@@ -2,7 +2,7 @@ import java.nio.charset.Charset;
 public class Main {
 
     static int truck = 0;
-    static int boxes = 99;
+    static int boxes = 622;
     static int containers = 0;
     static int boxesInContainers = 27;
     static int containersInTruck = 12;
@@ -23,7 +23,5 @@ public class Main {
                     System.out.println("Контейнер " + containers);
             }
         }
-        System.out.println("Нужно грузовиков " + truck + "\r\n" +
-                "Нужно контейнеров " + containers);
     }
 }
